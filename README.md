@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **yeji0205/yeji0205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h4>Hello! Nice to meet You 😄 </h4>
+### Hello! Nice to meet You 😄 
 
-I am a Bachelor Student at Hasso Plattner Institut, 
-and also learning real programming skills at 42Berlin. 
+I am a Bachelor Student at Hasso Plattner Institut, and also learning real programming skills at 42Berlin. 
 
 I am interested in 3D programming, I have learned three.js and since I have a PC, also playing bit with Unreal Engine 5. 
 
