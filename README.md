@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="./hello.png" alt="name banner" />
+<img src="./hello_1.png" alt="name banner" />
 
 I am a Bachelor Student at Hasso Plattner Institut, and also learning real programming skills at 42Berlin. 
 
