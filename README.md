@@ -22,7 +22,7 @@ and also learning real programming skills at 42Berlin.
 I am interested in 3D programming, I have learned three.js and since I have a PC, also playing bit with Unreal Engine 5. 
 
 <a href="https://github.com/yeji0205/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yeji0205&show_icons=true&theme=jolly" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yeji0205&show_icons=true&theme=buefy" />
 </a>
 
 <a href="https://github.com/yeji0205/github-readme-stats">
