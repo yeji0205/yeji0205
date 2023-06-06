@@ -21,4 +21,7 @@ and also learning real programming skills at 42Berlin.
 
 I am interested in 3D programming, I have learned three.js and since I have a PC, also playing bit with Unreal Engine 5. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeji0205)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeji0205&show_icons=true&theme=jolly)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeji0205&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
