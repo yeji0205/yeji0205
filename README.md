@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hello! Nice to meet You 😄 
 
 I am a Bachelor Student at Hasso Plattner Institut, and also learning real programming skills at 42Berlin. 
 
