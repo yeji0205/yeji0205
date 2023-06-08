@@ -10,7 +10,7 @@
 </p> -->
 
 I am a Bachelor Student of IT-Systems-Engineering at Hasso Plattner Institut, and also learning programming skills at 42 Berlin. 
-I am interested in 3D programming, I have learned three.js and since I have a PC, also playing bit with Unreal Engine 5. 
+I am interested in 3D programming, I have learned three.js and since I have a PC, also playing with Unreal Engine 5. 
 
 
 <h3 align="center"> Let's get connected!</h3>
