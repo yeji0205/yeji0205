@@ -18,7 +18,7 @@ I am interested in 3D programming, I have learned three.js and since I have a PC
 
 <p align="center"> 
  <a href="https://www.linkedin.com/in/yegi-park/" target="blank">
-  <img align="center" src="https://img.icons8.com/fluency/48/linkedin.png" alt="yeji-park" height="25" width="35" />
+  <img align="center" src="https://img.icons8.com/fluency/48/linkedin.png" alt="yeji-park" height="35" width="35" />
  </a>
  <a href="https://instagram.com/yehji205" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yeji-park" height="25" width="35" />
