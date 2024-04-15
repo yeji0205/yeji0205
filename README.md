@@ -9,9 +9,9 @@
  <img src="https://badges.pufler.dev/commits/monthly/yeji0205"/>
 </p> -->
 
-I am a Bachelor Student of IT-Systems-Engineering at Hasso Plattner Institut, and also learning programming skills at 42 Berlin. 
-I am interested in 3D programming, I found three.js really handy when I want to create 3D space on Web. 
-Since I have a PC(more powerful than Mac ^^), also have played with Unreal Engine 5. 
+I am a Bachelor Student of IT-Systems-Engineering at Hasso Plattner Institut, and also learning programming skills at 42 Berlin.<br> 
+I am interested in 3D programming, I enjoyed creating 3D stuff on Web using three.js. <br>
+Since I have a PC(more powerful than Mac ^^), also have played with Unreal Engine 5. <br>
 
 
 <h3 align="center"> Let's get connected!</h3>
